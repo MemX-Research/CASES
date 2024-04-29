@@ -7,8 +7,15 @@ How People Read".
 If you use this dataset in your work, please cite our paper:
 
 ```
-@article{,
-  
+@article{qi2023cases,
+  title={CASES: A Cognition-Aware Smart Eyewear System for Understanding How People Read},
+  author={Qi, Xiangyao and Lu, Qi and Pan, Wentao and Zhao, Yingying and Zhu, Rui and Dong, Mingzhi and Chang, Yuhu and Lv, Qin and Dick, Robert P and Yang, Fan and others},
+  journal={Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies},
+  volume={7},
+  number={3},
+  pages={1--31},
+  year={2023},
+  publisher={ACM New York, NY, USA}
 }
 
 @article{chang2021memx,
