@@ -6,7 +6,7 @@ How People Read".
 
 If you use this dataset in your work, please cite our paper:
 
-```
+```bibtex
 @article{qi2023cases,
   title={CASES: A Cognition-Aware Smart Eyewear System for Understanding How People Read},
   author={Qi, Xiangyao and Lu, Qi and Pan, Wentao and Zhao, Yingying and Zhu, Rui and Dong, Mingzhi and Chang, Yuhu and Lv, Qin and Dick, Robert P and Yang, Fan and others},
